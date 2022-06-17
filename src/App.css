@@ -7,6 +7,9 @@
 .ff_kanit {
   font-family: "Kanit", sans-serif;
 }
+body{
+  background-color: var(--black) !important;
+}
 /*ROOTS==========VARIABLES=================START*/
 :root {
   /*FONT===SIZES===START*/

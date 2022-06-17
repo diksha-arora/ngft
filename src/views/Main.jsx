@@ -1,13 +1,15 @@
 import React from 'react'
-import Header from '../components/Header';
-import Hero from '../components/Hero';
+
+import Nervous from '../components/Nervous';
+import Rare from '../components/Rare';
 
 
 function Main() {
   return (
    <>
-   <Header/>
-   <Hero/>
+<Nervous/>
+<Rare/>
+  
    </>
   )
 }

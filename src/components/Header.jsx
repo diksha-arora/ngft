@@ -7,7 +7,7 @@ function header() {
     <div className="container">
         <div className="row">
             <div className="col-12">
-               
+               <div><h1>this is heading</h1></div>
             </div>
         </div>
     </div>
